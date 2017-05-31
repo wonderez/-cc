@@ -261,7 +261,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:95px;
+  width:107px;
   height:45px;
   background:inherit;
   background-color:rgba(0, 157, 218, 1);
@@ -278,9 +278,9 @@
 }
 #u81 {
   position:absolute;
-  left:745px;
+  left:733px;
   top:275px;
-  width:95px;
+  width:107px;
   height:45px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -292,21 +292,21 @@
   position:absolute;
   left:2px;
   top:12px;
-  width:91px;
+  width:103px;
   word-wrap:break-word;
 }
 #u83 {
   position:absolute;
   left:648px;
   top:275px;
-  width:90px;
+  width:75px;
   height:45px;
 }
 #u83_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:90px;
+  width:75px;
   height:45px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
